@@ -4,4 +4,4 @@ i used allot of websites and forums to get this together
 feel free to use it and modify it
 contains
 javascript, html, and css.
-![](screenshots/titleanimation.gif)
+![](screenshots/title_animation.gif)
