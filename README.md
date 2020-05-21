@@ -7,5 +7,6 @@ javascript, html, and css.
 --------------------------------------------------------
 ![](screenshots/h1_animation.gif)
 ![](screenshots/title_animation.gif)
+
 it should play audio but i does not function all the time
 
