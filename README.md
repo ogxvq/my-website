@@ -8,3 +8,4 @@ javascript, html, and css.
 -screenhots-
 
 ![](screenshots/title_animation.gif)
+![](screenshots/h1_animation.gif)
