@@ -5,4 +5,4 @@ feel free to use it and modify it
 contains
 javascript, html, and css.
 
-// csgo hack vs hack inspired website
+// counter strike global offensive, hvh aka hack vs hack community inspired website
