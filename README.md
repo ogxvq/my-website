@@ -5,7 +5,6 @@ feel free to use it and modify it
 contains
 javascript, html, and css.
 --------------------------------------------------------
--screenhots-
 ![](screenshots/h1_animation.gif)
 ![](screenshots/title_animation.gif)
 
