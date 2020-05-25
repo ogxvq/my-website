@@ -4,9 +4,3 @@ i used allot of websites and forums to get this together
 feel free to use it and modify it
 contains
 javascript, html, and css.
---------------------------------------------------------
-![](screenshots/h1_animation.gif)
-![](screenshots/title_animation.gif)
-![](icon.ico)
-it should play audio but i does not function all the time
-
